@@ -7,7 +7,7 @@
  	config.vm.box = "bento/ubuntu-20.04"
  end
 Выполнение в этой директории vagrant up установит провайдер VirtualBox для Vagrant, скачает необходимый образ и запустит виртуальную машину.
-
+![Установка]https://github.com/EVolgina/devops-netology9/blob/main/virtconfig.png
 
 
 
